@@ -146,3 +146,15 @@ Bridget Kromhout:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bridgetkromhout"
+
+Aritra Ghosh:
+  name        : "Aritra Ghosh
+  bio         : "Bridget Kromhout is a Senior Product Manager in the Azure Kubernetes Service Team focussing on Observability and Troubleshooting."
+  avatar      : "https://avatars.githubusercontent.com/u/3425878?v=4"
+ links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/aritraghoshpm"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aritraghosh@microsoft.com"
